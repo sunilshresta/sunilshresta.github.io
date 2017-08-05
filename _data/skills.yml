@@ -1,0 +1,17 @@
+- name: Python
+  percentage: 85
+
+- name: HTML/CSS
+  percentage: 65
+
+- name: Linux/Shell
+  percentage: 75
+
+- name: SQL Server 2008
+  percentage: 70
+
+- name: Power BI
+  percentage: 80
+
+- name: Nagios, Netsupport Dna
+  percentage: 90
